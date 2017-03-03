@@ -1,0 +1,3 @@
+rootProject.name = 'springboot-gradle-project'
+//include ':springboot-custom-autoconfig'
+//project(':springboot-custom-autoconfig').projectDir = new File(settingsDir, '../springboot-custom-autoconfig')
